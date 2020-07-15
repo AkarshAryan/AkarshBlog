@@ -19,5 +19,5 @@ comments: false
 ## That's it for now
 We'll add more here !
 
-![myimage](/akarsh.jpeg)
-![familyphoto](/fam.jpeg)
+![myimage](akarsh.jpeg)
+![familyphoto](fam.jpeg)
