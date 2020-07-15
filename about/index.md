@@ -14,10 +14,11 @@ comments: false
 * I love Coffee
 * Travel too, yup
 * Born on the 15th of July
+* Studied at St. Michael's High School
 
 ## Preview
 
 {% capture images %}
-    /images/akarsh.jpeg
-    /images/fam.jpeg
+    /akarsh.jpeg
+    /fam.jpeg
 {% endcapture %}
