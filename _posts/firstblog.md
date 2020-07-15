@@ -4,11 +4,11 @@ title:  "Welcome to the Blog !"
 date:   2020-07-15
 excerpt: "Starting off this blog !"
 tag:
-- markdown 
-- mathjax
-- example
-- test
-- jekyll
+- first-blog 
+- birthday
+- blog
+- first
+- new
 comments: true
 ---
 
