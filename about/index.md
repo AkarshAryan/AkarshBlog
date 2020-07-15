@@ -16,9 +16,8 @@ comments: false
 * Born on the 15th of July
 * Studied at St. Michael's High School
 
-## Preview
+## That's it for now
+We'll add more here !
 
-{% capture images %}
-    /akarsh.jpeg
-    /fam.jpeg
-{% endcapture %}
+![myimage](/akarsh.jpeg)
+![familyphoto](/fam.jpeg)
